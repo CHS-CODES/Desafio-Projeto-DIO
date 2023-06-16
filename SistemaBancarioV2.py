@@ -146,7 +146,7 @@ def main():
             lista_contas(contas)
             
         elif opcao == "7": #Sair
-            print("\n === Operação Finalizada! ===")
+            print("\n === Operação Finalizada ;)! ===")
             break
         
         else:
